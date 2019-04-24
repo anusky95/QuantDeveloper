@@ -29,8 +29,8 @@ a million times without doing it same twice.
    * controller - the way the user interacts with the user input.
 5. Main types of patterns:
    * Creational patterns 
-       - Abstract Factory 
-       - Builder 
+       - Abstract Factory : Provide interface for creating families of related objects without specifying their concrete classes.
+       - Builder : Separate the 
        - Factory method
        - Prototype
        - Singleton
