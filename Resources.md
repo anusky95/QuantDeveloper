@@ -29,19 +29,19 @@ a million times without doing it same twice.
    * controller - the way the user interacts with the user input.
 5. Main types of patterns:
    * Creational patterns 
-       - Abstract Factory : Provide interface for <b> creating families of related objects </b>without specifying their concrete classes.
-       - Builder : Separate the 
-       - Factory method
-       - Prototype
-       - Singleton
+       - Abstract Factory : Provide interface for <b> creating families of related objects </b> without specifying their <b>concrete classes.</b>
+       - Builder : Separate construction of complex object from representation.
+       - Factory method: Define interface for object creation, but lets subclasses decide which  class to instantiate.
+       - Prototype : Specify kinds of object to create using prototypical inheritance, creates new objects by copying this prototype.
+       - Singleton : Ensure class has only one instance and provide global point of access.
     * Structural patterns
-       - Adapter 
-       - Bridge
-       - Composite
-       - Decorator
-       - Facade
-       - Flyweight
-       - Proxy
+       - Adapter : Convert interface of one class to another, lets classes work together that couldnt work otherwise.
+       - Bridge : Decouple abstraction from implementation.
+       - Composite : Compose object into tree structure - part whole hierarchies.
+       - Decorator: attach additional responsibilities to object dynamically.
+       - Facade : provide unified interface to set of interfaces in subsystem.
+       - Flyweight : use sharing to support large numbers of fine grained objects efficiently.
+       - Proxy : provide surrogate/placeholder for another object to control access to it.
    * Behavioral patterns
        - Chain of responsibility
        - Command
