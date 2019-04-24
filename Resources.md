@@ -27,3 +27,28 @@ a million times without doing it same twice.
    * model - underlying application data
    * view - different presentation of the same underlying data
    * controller - the way the user interacts with the user input.
+5. Main types of patterns:
+   * Creational patterns 
+       - Abstract Factory 
+       - Builder 
+       - Factory method
+       - Prototype
+       - Singleton
+    * Structural patterns
+       - Adapter 
+       - Bridge
+       - Composite
+       - Decorator
+       - Facade
+       - Flyweight
+       - Proxy
+   * Behavioral patterns
+       - Chain of responsibility
+       - Command
+       - Interpreter
+       - Iterator
+       - Mediator
+       - Observer
+       - Template method
+       - Visitor
+       
