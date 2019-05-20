@@ -52,3 +52,10 @@ a million times without doing it same twice.
        - Template method
        - Visitor
        
+  ##### REST API
+  REST - Representational state transfer API is an application program interface that uses HTTP requests to GET, POST, PUT and DELETE data. It is an architectural style for distributed hypermedia systems.
+  Guiding principles of REST
+  1. Client-server: Separate user interface concerns from the data storage concerns.
+  2. Stateless - Request from client must contain all information to understand request. No usage of stored context on server. Hence session state is kept entirely on client.
+  3. Cacheable : 
+  
